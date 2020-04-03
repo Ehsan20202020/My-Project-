@@ -1,0 +1,5 @@
+Proje hakkinda bilgi
+Bu proje kendi web sitemdir.  
+Projenin geris kisminda kendimle ilgili bilgiler, egtim bilgilerim (CV), öz geçmisim, Sevdigim sporlar, hobilerim ve etkinliklerim detayli bir sekilde yer almaktadir. Sonra kendi sehrime ve sevdigim sehirlere ait bilgiler mevcuttur. Sehrimin nüfüsü, gezecek yerleri ve önemli eserleri vb… resimlerle göstermektedir. Ayrica projede sehrimin futbol ve basketbol takimini tanitan bilgiler bulunmaktadir. Ve daha detayli bilgiler için linkler yer almaktadir.
+Ve bir ögrenci numarasi, kullanci adi ve sifre isteyen bir login sayfasi var. eger dogru ise hos geldiniz mesaje gösteriyor, basarisiz ise tekrar etmelidir.
+Son olarak de iletesim için telefon numara, e-posta ve address biilgilerim yer almaktadir.
