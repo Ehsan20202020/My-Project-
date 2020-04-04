@@ -1,5 +1,17 @@
+                Web- teknolojileri- projesi  
+                                                                              Ehsanullah 
+                                                                              Shahriary 
+                                                                              B191210563
+                                                                    Github Linki:  https://github.com/Ehsan20202020/My-Project- 
+
 Proje hakkinda bilgi
 Bu proje kendi web sitemdir.  
-Projenin geris kisminda kendimle ilgili bilgiler, egtim bilgilerim (CV), öz geçmisim, Sevdigim sporlar, hobilerim ve etkinliklerim detayli bir sekilde yer almaktadir. Sonra kendi sehrime ve sevdigim sehirlere ait bilgiler mevcuttur. Sehrimin nüfüsü, gezecek yerleri ve önemli eserleri vb… resimlerle göstermektedir. Ayrica projede sehrimin futbol ve basketbol takimini tanitan bilgiler bulunmaktadir. Ve daha detayli bilgiler için linkler yer almaktadir.
-Ve bir ögrenci numarasi, kullanci adi ve sifre isteyen bir login sayfasi var. eger dogru ise hos geldiniz mesaje gösteriyor, basarisiz ise tekrar etmelidir.
-Son olarak de iletesim için telefon numara, e-posta ve address biilgilerim yer almaktadir.
+Projenin geris kisminda kendimle ilgili bilgiler, egtim bilgilerim (CV), Ã¶z geÃ§misim,
+Sevdigim sporlar, hobilerim ve etkinliklerim detayli bir sekilde yer almaktadir. 
+Sonra kendi sehrime ve sevdigim sehirlere ait bilgiler mevcuttur. 
+Sehrimin nÃ¼fÃ¼sÃ¼, gezecek yerleri ve Ã¶nemli eserleri vbâ€¦ resimlerle gÃ¶stermektedir.
+Ayrica projede sehrimin futbol ve basketbol takimini tanitan bilgiler bulunmaktadir. 
+Ve daha detayli bilgiler iÃ§in linkler yer almaktadir.
+Ve bir Ã¶grenci numarasi, kullanci adi ve sifre isteyen bir login sayfasi var.
+eger dogru ise hos geldiniz mesaje gÃ¶steriyor, basarisiz ise tekrar etmelidir.
+Son olarak de iletesim iÃ§in telefon numara, e-posta ve address biilgilerim yer almaktadir.
