@@ -14,4 +14,9 @@ Ayrica projede sehrimin futbol ve basketbol takimini tanitan bilgiler bulunmakta
 Ve daha detayli bilgiler için linkler yer almaktadir.
 Ve bir ögrenci numarasi, kullanci adi ve sifre isteyen bir login sayfasi var.
 eger dogru ise hos geldiniz mesaje gösteriyor, basarisiz ise tekrar etmelidir.
-Son olarak de iletesim için telefon numara, e-posta ve address biilgilerim yer almaktadir.
+kullanci adini e-mail olup olmadigini kontrol edecektir.
+ve kullanci adi ve sifre bos olup olmadigi kontrol etmeli dir. 
+Son olarak de ilitesim sayfasidir, burada form elemanlari kullanilmaktadir.
+kontrol islemleri javascrip ile yapilmalidir.
+sonrada gönderilen form bilgileri baska bir sayfada görüntülenmeli dir.
+ve en sonda eksik gördögüm ve eklemek istedigim kisimlarin eklenmesidir.
